@@ -1,0 +1,3 @@
+[submodule "external/kernel"]
+	path = external/kernel
+	url = https://github.com/vividunit/kernel.git
