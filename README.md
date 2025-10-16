@@ -35,4 +35,5 @@ Device Drivers for the [Vivid Unit SBC](https://www.vividunit.com/Main_Page)
 
     make modules -j$(nproc)
 
-Now you are ready to compile kernel code for the vivid unit
+Now you are ready to compile kernel code for the vivid unit.
+Check hello_module for a minimalistic setup.
