@@ -24,9 +24,6 @@ Device Drivers for the [Vivid Unit SBC](https://www.vividunit.com/Main_Page)
 
     cd external/kernel
 
-    # don't skip this as your compiled drivers vermagic will not match the kernel version
-    git checkout 958d44188100f47841eed119bd7d732830da8d2a
-
     cp arch/arm64/configs/vivid_unit_defconfig .config
 
     make olddefconfig
