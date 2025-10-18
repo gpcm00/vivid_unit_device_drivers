@@ -12,9 +12,9 @@ Device Drivers for the [Vivid Unit SBC](https://www.vividunit.com/Main_Page)
 
     git clone https://github.com/gpcm00/vivid_unit_device_drivers.git
 
-    git submodule init --recursive
-
     cd vivid_unit_device_drivers
+
+    git submodule update --init --recursive
 
 ## Prepare the kernel
 

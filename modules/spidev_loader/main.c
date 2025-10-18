@@ -1,3 +1,8 @@
+/* 
+ * A simple module that binds spidev to the SPI controller
+ * at bus 2.
+ * 
+ */
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/kernel.h>
