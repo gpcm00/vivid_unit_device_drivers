@@ -9,6 +9,7 @@ Device Drivers for the [Vivid Unit SBC](https://www.vividunit.com/Main_Page)
     sudo apt install python3-is-python 
 
 # Install
+Tested on WLS
 
     git clone https://github.com/gpcm00/vivid_unit_device_drivers.git
 
